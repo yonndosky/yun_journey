@@ -1,0 +1,27 @@
+.director_panel
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: 500px;
+    margin-top: 20px;
+}
+
+.director
+{
+    margin: 0 20px;
+}
+
+.director_pic
+{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-size: contain;
+}
+.director_name
+{
+    text-align: center;
+    font-weight: 700;
+    font-size: 20px;
+}

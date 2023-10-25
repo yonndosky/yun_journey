@@ -1,0 +1,21 @@
+.card
+{
+    width: 500px;
+    margin: 0 auto;
+}
+.travels
+{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-top: 20px;
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+}
+
+.title
+{
+    border-bottom: 2px solid #73AD21;
+    width: 100%;
+    text-align: center;
+}

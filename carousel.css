@@ -1,0 +1,22 @@
+.carousel
+{
+    width: 500px;
+    margin: 0 auto;
+}
+.carousel-item-background {
+    background-image: url('https://static.lifetour.info/eWeb_lifetour/IMGDB/001486/001489/00037270.JPG/500x-');
+    height: 333px;
+    aspect-ratio: 500/333;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.carousel-item-title {
+    position: absolute;
+    bottom: 0;
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 100%;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+}
